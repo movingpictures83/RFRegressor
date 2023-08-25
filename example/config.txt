@@ -1,0 +1,2 @@
+Prefix plugins/RFRegressor/example/
+Plugin RFRegressor inputfile input.csv outputfile none
